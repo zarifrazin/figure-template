@@ -9,9 +9,9 @@ A collection of templates for creating publication-quality figures including bar
 Click any link below to open directly in **Google Colab** - no installation needed!
 
 ### Main Resources (Click to Open in Google Colab)
-- **📖 Figure Templates** - [🔵 Open in Colab](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/template/figure_templates.ipynb) - Template library with all plot types (line plots, histograms, error bars, dual-axis, shared-axis, broken-axis)
-- **🎨 Demo Examples** - [🔵 Open in Colab](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/template/demo_figure_panel.ipynb) - Working examples showing how to combine multiple plots into one figure panel
-- **📊 Publication Example** - [🔵 Open in Colab](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/Example/example_figure_panel.ipynb) - Real figure panel replicated from a research article
+- **📖 Figure Templates** - [🔵 Open in Colab](https://colab.research.google.com/github/zarifrazin/figure-template/blob/main/template/figure_templates.ipynb) - Template library with all plot types (line plots, histograms, error bars, dual-axis, shared-axis, broken-axis)
+- **🎨 Demo Examples** - [🔵 Open in Colab](https://colab.research.google.com/github/zarifrazin/figure-template/blob/main/template/demo_figure_panel.ipynb) - Working examples showing how to combine multiple plots into one figure panel
+- **📊 Publication Example** - [🔵 Open in Colab](https://colab.research.google.com/github/zarifrazin/figure-template/blob/main/Example/example_figure_panel.ipynb) - Real figure panel replicated from a research article
 
 ---
 
@@ -49,7 +49,7 @@ drive.mount('/content/drive')
 - Or organize them in a folder in your Google Drive
 
 **Step 4:** Look at template examples
-- Open the [Figure Templates Guide](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/template/figure_templates.ipynb) to see how plots are created
+- Open the [Figure Templates Guide](https://colab.research.google.com/github/zarifrazin/figure-template/blob/main/template/figure_templates.ipynb) to see how plots are created
 - Copy the relevant section code into your notebook
 - Update the data file paths to match your uploaded files
 - Do necessary adjustments, take help from AI!
@@ -70,7 +70,7 @@ drive.mount('/content/drive')
 **Step 1: Download the Repository**
 
 **Option A - Simple Download (Recommended if unfamiliar with Git):**
-1. Go to https://github.com/ab-zarif-razin/figure-template
+1. Go to https://github.com/zarifrazin/figure-template
 2. Click the green **Code** button
 3. Click **Download ZIP**
 4. Extract the ZIP file to your computer
@@ -78,7 +78,7 @@ drive.mount('/content/drive')
 
 **Option B - Using Git (For Git users):**
 ```bash
-git clone https://github.com/ab-zarif-razin/figure-template.git
+git clone https://github.com/zarifrazin/figure-template.git
 cd figure-template
 ```
 
